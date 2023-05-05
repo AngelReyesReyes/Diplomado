@@ -1,0 +1,8 @@
+//{} objetos
+//[] arreglos y pueden contener objetos
+
+tipo de var
+strings 	"id"	"file"
+number	100	03.3
+booleans	true	fals
+number	
