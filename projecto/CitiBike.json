@@ -1,0 +1,2530 @@
+V
+"{
+  ""city"": {
+    ""coord"": {
+      ""lat"": 43.000351,
+      ""lon"": -75.499901
+    },
+    ""country"": ""US"",
+    ""findname"": ""NEW YORK"",
+    ""id"": 5128638,
+    ""langs"": [
+      {
+        ""abbr"": ""NY""
+      },
+      {
+        ""am"": ""ኒው ዮርክ""
+      },
+      {
+        ""ang"": ""Nīwe Eoforwic""
+      },
+      {
+        ""ar"": ""نيويورك""
+      },
+      {
+        ""be"": ""Нью-Ёрк""
+      },
+      {
+        ""bg"": ""Ню Йорк""
+      },
+      {
+        ""br"": ""New York""
+      },
+      {
+        ""bs"": ""New York""
+      },
+      {
+        ""ca"": ""Nova York""
+      },
+      {
+        ""cs"": ""New York""
+      },
+      {
+        ""cy"": ""Efrog Newydd""
+      },
+      {
+        ""da"": ""New York""
+      },
+      {
+        ""de"": ""New York""
+      },
+      {
+        ""en"": ""New York""
+      },
+      {
+        ""eo"": ""Nov-Jorkio""
+      },
+      {
+        ""es"": ""Nueva York""
+      },
+      {
+        ""et"": ""New Yorgi osariik""
+      },
+      {
+        ""fi"": ""New York""
+      },
+      {
+        ""fr"": ""New York""
+      },
+      {
+        ""frp"": ""New York""
+      },
+      {
+        ""ga"": ""Nua-Eabhrac""
+      },
+      {
+        ""gd"": ""Eabhraig Nuadh""
+      },
+      {
+        ""gl"": ""Nova York""
+      },
+      {
+        ""he"": ""ניו יורק""
+      },
+      {
+        ""hi"": ""नया यॉर्क""
+      },
+      {
+        ""hr"": ""New York""
+      },
+      {
+        ""hu"": ""New York""
+      },
+      {
+        ""id"": ""New York""
+      },
+      {
+        ""io"": ""Nova-York""
+      },
+      {
+        ""it"": ""New York""
+      },
+      {
+        ""ja"": ""ニューヨーク州""
+      },
+      {
+        ""jbo"": ""niuiork""
+      },
+      {
+        ""ko"": ""뉴욕 주""
+      },
+      {
+        ""ku"": ""New York""
+      },
+      {
+        ""kw"": ""Stat Evrek Nowydh""
+      },
+      {
+        ""la"": ""Novum Eboracum""
+      },
+      {
+        ""link"": ""http://en.wikipedia.org/wiki/New_York""
+      },
+      {
+        ""lt"": ""Niujorkas""
+      },
+      {
+        ""lv"": ""Ņujorka""
+      },
+      {
+        ""mk"": ""Њујорк""
+      },
+      {
+        ""ms"": ""New York""
+      },
+      {
+        ""nl"": ""New York""
+      },
+      {
+        ""nn"": ""Delstaten New York""
+      },
+      {
+        ""no"": ""New York State""
+      },
+      {
+        ""oc"": ""Nòva York""
+      },
+      {
+        ""os"": ""Нью-Йорк""
+      },
+      {
+        ""pt"": ""Nova Iorque""
+      },
+      {
+        ""ro"": ""New York""
+      },
+      {
+        ""ru"": ""Нью-Йорк""
+      },
+      {
+        ""sk"": ""New York""
+      },
+      {
+        ""sl"": ""New York""
+      },
+      {
+        ""sq"": ""New York""
+      },
+      {
+        ""sr"": ""Њујорк""
+      },
+      {
+        ""sv"": ""New York""
+      },
+      {
+        ""ta"": ""நியூ யோர்க் மாநிலம்""
+      },
+      {
+        ""th"": ""มลรัฐนิวยอร์ก""
+      },
+      {
+        ""tl"": ""New York""
+      },
+      {
+        ""tr"": ""New York""
+      },
+      {
+        ""ug"": ""نيۇيورك شىتاتى""
+      },
+      {
+        ""uk"": ""Нью-Йорк""
+      },
+      {
+        ""vi"": ""Tiểu bang New York""
+      },
+      {
+        ""zh"": ""纽约州""
+      }
+    ],
+    ""name"": ""New York"",
+    ""zoom"": 1
+  },
+  ""clouds"": {
+    ""all"": 20
+  },
+  ""main"": {
+    ""humidity"": 100,
+    ""pressure"": 1012,
+    ""temp"": 292.77,
+    ""temp_max"": 294.26,
+    ""temp_min"": 290.93
+  },
+  ""time"": 1472703947,
+  ""weather"": [
+    {
+      ""description"": ""few clouds"",
+      ""icon"": ""02n"",
+      ""id"": 801,
+      ""main"": ""Clouds""
+    }
+  ],
+  ""wind"": {
+    ""deg"": 249.506,
+    ""speed"": 1.22
+  }
+}"
+"{
+  ""city"": {
+    ""coord"": {
+      ""lat"": 40.714272,
+      ""lon"": -74.005966
+    },
+    ""country"": ""US"",
+    ""findname"": ""NEW YORK"",
+    ""id"": 5128581,
+    ""langs"": [
+      {
+        ""af"": ""New York Stad""
+      },
+      {
+        ""an"": ""Nueba York""
+      },
+      {
+        ""ar"": ""نيويورك""
+      },
+      {
+        ""be"": ""Нью-Ёрк""
+      },
+      {
+        ""bg"": ""Ню Йорк""
+      },
+      {
+        ""bn"": ""নিউ ইয়র্ক""
+      },
+      {
+        ""br"": ""New York""
+      },
+      {
+        ""bs"": ""New York City""
+      },
+      {
+        ""ca"": ""Nova York""
+      },
+      {
+        ""cs"": ""New York""
+      },
+      {
+        ""cy"": ""Efrog Newydd""
+      },
+      {
+        ""da"": ""New York""
+      },
+      {
+        ""de"": ""New York City""
+      },
+      {
+        ""el"": ""Νέα Υόρκη""
+      },
+      {
+        ""en"": ""New York""
+      },
+      {
+        ""eo"": ""Nov-Jorko""
+      },
+      {
+        ""es"": ""Nueva York""
+      },
+      {
+        ""et"": ""New York""
+      },
+      {
+        ""eu"": ""New York""
+      },
+      {
+        ""fa"": ""نیویورک""
+      },
+      {
+        ""fi"": ""New York""
+      },
+      {
+        ""fr"": ""New York""
+      },
+      {
+        ""frp"": ""New York""
+      },
+      {
+        ""ga"": ""Cathair Nua Eabhraic""
+      },
+      {
+        ""gd"": ""Eabhraig Nuadh""
+      },
+      {
+        ""gl"": ""Nova York""
+      },
+      {
+        ""he"": ""ניו יורק""
+      },
+      {
+        ""hr"": ""New York""
+      },
+      {
+        ""hu"": ""New York""
+      },
+      {
+        ""ia"": ""New York""
+      },
+      {
+        ""iata"": ""NYC""
+      },
+      {
+        ""id"": ""New York City""
+      },
+      {
+        ""io"": ""Nova-York""
+      },
+      {
+        ""is"": ""Nýja Jórvík""
+      },
+      {
+        ""it"": ""New York""
+      },
+      {
+        ""ja"": ""ニューヨーク""
+      },
+      {
+        ""ka"": ""ნიუ-იორკი""
+      },
+      {
+        ""ko"": ""뉴욕 시""
+      },
+      {
+        ""ku"": ""New York City""
+      },
+      {
+        ""kw"": ""Evrek Nowydh""
+      },
+      {
+        ""la"": ""Urbs Novum Eboracum""
+      },
+      {
+        ""lb"": ""New York City""
+      },
+      {
+        ""li"": ""New York""
+      },
+      {
+        ""link"": ""http://en.wikipedia.org/wiki/New_York_City""
+      },
+      {
+        ""lt"": ""Niujorkas""
+      },
+      {
+        ""lv"": ""Ņujorka""
+      },
+      {
+        ""mk"": ""Њу Јорк""
+      },
+      {
+        ""ms"": ""Bandaraya New York""
+      },
+      {
+        ""nb"": ""New York""
+      },
+      {
+        ""nds"": ""New York""
+      },
+      {
+        ""nl"": ""New York City""
+      },
+      {
+        ""nn"": ""New York""
+      },
+      {
+        ""no"": ""New York""
+      },
+      {
+        ""nrm"": ""Nouvieau York""
+      },
+      {
+        ""oc"": ""Nòva York""
+      },
+      {
+        ""os"": ""Нью-Йорк""
+      },
+      {
+        ""pdc"": ""Nei Yarrick Schtadt""
+      },
+      {
+        ""pl"": ""Nowy Jork""
+      },
+      {
+        ""pms"": ""New York""
+      },
+      {
+        ""post"": ""10017""
+      },
+      {
+        ""pt"": ""Nova Iorque""
+      },
+      {
+        ""qu"": ""New York""
+      },
+      {
+        ""ro"": ""New York""
+      },
+      {
+        ""ru"": ""Нью-Йорк""
+      },
+      {
+        ""scn"": ""Nova York""
+      },
+      {
+        ""sh"": ""New York""
+      },
+      {
+        ""sk"": ""New York""
+      },
+      {
+        ""sl"": ""New York""
+      },
+      {
+        ""sq"": ""New York City""
+      },
+      {
+        ""sr"": ""Њујорк""
+      },
+      {
+        ""sv"": ""New York""
+      },
+      {
+        ""ta"": ""நியூயார்க்""
+      },
+      {
+        ""th"": ""นครนิวยอร์ก""
+      },
+      {
+        ""tl"": ""Lungsod ng New York""
+      },
+      {
+        ""tr"": ""New York kenti""
+      },
+      {
+        ""ug"": ""نيۇيورك شەھەر""
+      },
+      {
+        ""uk"": ""Нью-Йорк""
+      },
+      {
+        ""ur"": ""نیویارک شہر""
+      },
+      {
+        ""vi"": ""Thành phố New York""
+      },
+      {
+        ""yi"": ""ניו־יאָרק""
+      },
+      {
+        ""zh"": ""紐約市""
+      }
+    ],
+    ""name"": ""New York"",
+    ""zoom"": 1
+  },
+  ""clouds"": {
+    ""all"": 90
+  },
+  ""main"": {
+    ""humidity"": 83,
+    ""pressure"": 1012,
+    ""temp"": 297.61,
+    ""temp_max"": 300.15,
+    ""temp_min"": 293.71
+  },
+  ""rain"": {
+    ""1h"": 1.02
+  },
+  ""time"": 1472703984,
+  ""weather"": [
+    {
+      ""description"": ""moderate rain"",
+      ""icon"": ""10n"",
+      ""id"": 501,
+      ""main"": ""Rain""
+    }
+  ],
+  ""wind"": {
+    ""deg"": 171.006,
+    ""speed"": 3.52
+  }
+}"
+"{
+  ""city"": {
+    ""coord"": {
+      ""lat"": 43.000351,
+      ""lon"": -75.499901
+    },
+    ""country"": ""US"",
+    ""findname"": ""NEW YORK"",
+    ""id"": 5128638,
+    ""langs"": [
+      {
+        ""abbr"": ""NY""
+      },
+      {
+        ""am"": ""ኒው ዮርክ""
+      },
+      {
+        ""ang"": ""Nīwe Eoforwic""
+      },
+      {
+        ""ar"": ""نيويورك""
+      },
+      {
+        ""be"": ""Нью-Ёрк""
+      },
+      {
+        ""bg"": ""Ню Йорк""
+      },
+      {
+        ""br"": ""New York""
+      },
+      {
+        ""bs"": ""New York""
+      },
+      {
+        ""ca"": ""Nova York""
+      },
+      {
+        ""cs"": ""New York""
+      },
+      {
+        ""cy"": ""Efrog Newydd""
+      },
+      {
+        ""da"": ""New York""
+      },
+      {
+        ""de"": ""New York""
+      },
+      {
+        ""en"": ""New York""
+      },
+      {
+        ""eo"": ""Nov-Jorkio""
+      },
+      {
+        ""es"": ""Nueva York""
+      },
+      {
+        ""et"": ""New Yorgi osariik""
+      },
+      {
+        ""fi"": ""New York""
+      },
+      {
+        ""fr"": ""New York""
+      },
+      {
+        ""frp"": ""New York""
+      },
+      {
+        ""ga"": ""Nua-Eabhrac""
+      },
+      {
+        ""gd"": ""Eabhraig Nuadh""
+      },
+      {
+        ""gl"": ""Nova York""
+      },
+      {
+        ""he"": ""ניו יורק""
+      },
+      {
+        ""hi"": ""नया यॉर्क""
+      },
+      {
+        ""hr"": ""New York""
+      },
+      {
+        ""hu"": ""New York""
+      },
+      {
+        ""id"": ""New York""
+      },
+      {
+        ""io"": ""Nova-York""
+      },
+      {
+        ""it"": ""New York""
+      },
+      {
+        ""ja"": ""ニューヨーク州""
+      },
+      {
+        ""jbo"": ""niuiork""
+      },
+      {
+        ""ko"": ""뉴욕 주""
+      },
+      {
+        ""ku"": ""New York""
+      },
+      {
+        ""kw"": ""Stat Evrek Nowydh""
+      },
+      {
+        ""la"": ""Novum Eboracum""
+      },
+      {
+        ""link"": ""http://en.wikipedia.org/wiki/New_York""
+      },
+      {
+        ""lt"": ""Niujorkas""
+      },
+      {
+        ""lv"": ""Ņujorka""
+      },
+      {
+        ""mk"": ""Њујорк""
+      },
+      {
+        ""ms"": ""New York""
+      },
+      {
+        ""nl"": ""New York""
+      },
+      {
+        ""nn"": ""Delstaten New York""
+      },
+      {
+        ""no"": ""New York State""
+      },
+      {
+        ""oc"": ""Nòva York""
+      },
+      {
+        ""os"": ""Нью-Йорк""
+      },
+      {
+        ""pt"": ""Nova Iorque""
+      },
+      {
+        ""ro"": ""New York""
+      },
+      {
+        ""ru"": ""Нью-Йорк""
+      },
+      {
+        ""sk"": ""New York""
+      },
+      {
+        ""sl"": ""New York""
+      },
+      {
+        ""sq"": ""New York""
+      },
+      {
+        ""sr"": ""Њујорк""
+      },
+      {
+        ""sv"": ""New York""
+      },
+      {
+        ""ta"": ""நியூ யோர்க் மாநிலம்""
+      },
+      {
+        ""th"": ""มลรัฐนิวยอร์ก""
+      },
+      {
+        ""tl"": ""New York""
+      },
+      {
+        ""tr"": ""New York""
+      },
+      {
+        ""ug"": ""نيۇيورك شىتاتى""
+      },
+      {
+        ""uk"": ""Нью-Йорк""
+      },
+      {
+        ""vi"": ""Tiểu bang New York""
+      },
+      {
+        ""zh"": ""纽约州""
+      }
+    ],
+    ""name"": ""New York"",
+    ""zoom"": 1
+  },
+  ""clouds"": {
+    ""all"": 1
+  },
+  ""main"": {
+    ""humidity"": 82,
+    ""pressure"": 1023,
+    ""temp"": 291.76,
+    ""temp_max"": 294.82,
+    ""temp_min"": 290.15
+  },
+  ""time"": 1472520491,
+  ""weather"": [
+    {
+      ""description"": ""sky is clear"",
+      ""icon"": ""01n"",
+      ""id"": 800,
+      ""main"": ""Clear""
+    }
+  ],
+  ""wind"": {
+    ""deg"": 350,
+    ""speed"": 2.1
+  }
+}"
+"{
+  ""city"": {
+    ""coord"": {
+      ""lat"": 40.714272,
+      ""lon"": -74.005966
+    },
+    ""country"": ""US"",
+    ""findname"": ""NEW YORK"",
+    ""id"": 5128581,
+    ""langs"": [
+      {
+        ""af"": ""New York Stad""
+      },
+      {
+        ""an"": ""Nueba York""
+      },
+      {
+        ""ar"": ""نيويورك""
+      },
+      {
+        ""be"": ""Нью-Ёрк""
+      },
+      {
+        ""bg"": ""Ню Йорк""
+      },
+      {
+        ""bn"": ""নিউ ইয়র্ক""
+      },
+      {
+        ""br"": ""New York""
+      },
+      {
+        ""bs"": ""New York City""
+      },
+      {
+        ""ca"": ""Nova York""
+      },
+      {
+        ""cs"": ""New York""
+      },
+      {
+        ""cy"": ""Efrog Newydd""
+      },
+      {
+        ""da"": ""New York""
+      },
+      {
+        ""de"": ""New York City""
+      },
+      {
+        ""el"": ""Νέα Υόρκη""
+      },
+      {
+        ""en"": ""New York""
+      },
+      {
+        ""eo"": ""Nov-Jorko""
+      },
+      {
+        ""es"": ""Nueva York""
+      },
+      {
+        ""et"": ""New York""
+      },
+      {
+        ""eu"": ""New York""
+      },
+      {
+        ""fa"": ""نیویورک""
+      },
+      {
+        ""fi"": ""New York""
+      },
+      {
+        ""fr"": ""New York""
+      },
+      {
+        ""frp"": ""New York""
+      },
+      {
+        ""ga"": ""Cathair Nua Eabhraic""
+      },
+      {
+        ""gd"": ""Eabhraig Nuadh""
+      },
+      {
+        ""gl"": ""Nova York""
+      },
+      {
+        ""he"": ""ניו יורק""
+      },
+      {
+        ""hr"": ""New York""
+      },
+      {
+        ""hu"": ""New York""
+      },
+      {
+        ""ia"": ""New York""
+      },
+      {
+        ""iata"": ""NYC""
+      },
+      {
+        ""id"": ""New York City""
+      },
+      {
+        ""io"": ""Nova-York""
+      },
+      {
+        ""is"": ""Nýja Jórvík""
+      },
+      {
+        ""it"": ""New York""
+      },
+      {
+        ""ja"": ""ニューヨーク""
+      },
+      {
+        ""ka"": ""ნიუ-იორკი""
+      },
+      {
+        ""ko"": ""뉴욕 시""
+      },
+      {
+        ""ku"": ""New York City""
+      },
+      {
+        ""kw"": ""Evrek Nowydh""
+      },
+      {
+        ""la"": ""Urbs Novum Eboracum""
+      },
+      {
+        ""lb"": ""New York City""
+      },
+      {
+        ""li"": ""New York""
+      },
+      {
+        ""link"": ""http://en.wikipedia.org/wiki/New_York_City""
+      },
+      {
+        ""lt"": ""Niujorkas""
+      },
+      {
+        ""lv"": ""Ņujorka""
+      },
+      {
+        ""mk"": ""Њу Јорк""
+      },
+      {
+        ""ms"": ""Bandaraya New York""
+      },
+      {
+        ""nb"": ""New York""
+      },
+      {
+        ""nds"": ""New York""
+      },
+      {
+        ""nl"": ""New York City""
+      },
+      {
+        ""nn"": ""New York""
+      },
+      {
+        ""no"": ""New York""
+      },
+      {
+        ""nrm"": ""Nouvieau York""
+      },
+      {
+        ""oc"": ""Nòva York""
+      },
+      {
+        ""os"": ""Нью-Йорк""
+      },
+      {
+        ""pdc"": ""Nei Yarrick Schtadt""
+      },
+      {
+        ""pl"": ""Nowy Jork""
+      },
+      {
+        ""pms"": ""New York""
+      },
+      {
+        ""post"": ""10017""
+      },
+      {
+        ""pt"": ""Nova Iorque""
+      },
+      {
+        ""qu"": ""New York""
+      },
+      {
+        ""ro"": ""New York""
+      },
+      {
+        ""ru"": ""Нью-Йорк""
+      },
+      {
+        ""scn"": ""Nova York""
+      },
+      {
+        ""sh"": ""New York""
+      },
+      {
+        ""sk"": ""New York""
+      },
+      {
+        ""sl"": ""New York""
+      },
+      {
+        ""sq"": ""New York City""
+      },
+      {
+        ""sr"": ""Њујорк""
+      },
+      {
+        ""sv"": ""New York""
+      },
+      {
+        ""ta"": ""நியூயார்க்""
+      },
+      {
+        ""th"": ""นครนิวยอร์ก""
+      },
+      {
+        ""tl"": ""Lungsod ng New York""
+      },
+      {
+        ""tr"": ""New York kenti""
+      },
+      {
+        ""ug"": ""نيۇيورك شەھەر""
+      },
+      {
+        ""uk"": ""Нью-Йорк""
+      },
+      {
+        ""ur"": ""نیویارک شہر""
+      },
+      {
+        ""vi"": ""Thành phố New York""
+      },
+      {
+        ""yi"": ""ניו־יאָרק""
+      },
+      {
+        ""zh"": ""紐約市""
+      }
+    ],
+    ""name"": ""New York"",
+    ""zoom"": 1
+  },
+  ""clouds"": {
+    ""all"": 40
+  },
+  ""main"": {
+    ""humidity"": 42,
+    ""pressure"": 1020,
+    ""temp"": 298.61,
+    ""temp_max"": 302.15,
+    ""temp_min"": 294.26
+  },
+  ""time"": 1472520527,
+  ""weather"": [
+    {
+      ""description"": ""light rain"",
+      ""icon"": ""10n"",
+      ""id"": 500,
+      ""main"": ""Rain""
+    }
+  ],
+  ""wind"": {
+    ""deg"": 330,
+    ""speed"": 5.7
+  }
+}"
+"{
+  ""city"": {
+    ""coord"": {
+      ""lat"": 43.000351,
+      ""lon"": -75.499901
+    },
+    ""country"": ""US"",
+    ""findname"": ""NEW YORK"",
+    ""id"": 5128638,
+    ""langs"": [
+      {
+        ""abbr"": ""NY""
+      },
+      {
+        ""am"": ""ኒው ዮርክ""
+      },
+      {
+        ""ang"": ""Nīwe Eoforwic""
+      },
+      {
+        ""ar"": ""نيويورك""
+      },
+      {
+        ""be"": ""Нью-Ёрк""
+      },
+      {
+        ""bg"": ""Ню Йорк""
+      },
+      {
+        ""br"": ""New York""
+      },
+      {
+        ""bs"": ""New York""
+      },
+      {
+        ""ca"": ""Nova York""
+      },
+      {
+        ""cs"": ""New York""
+      },
+      {
+        ""cy"": ""Efrog Newydd""
+      },
+      {
+        ""da"": ""New York""
+      },
+      {
+        ""de"": ""New York""
+      },
+      {
+        ""en"": ""New York""
+      },
+      {
+        ""eo"": ""Nov-Jorkio""
+      },
+      {
+        ""es"": ""Nueva York""
+      },
+      {
+        ""et"": ""New Yorgi osariik""
+      },
+      {
+        ""fi"": ""New York""
+      },
+      {
+        ""fr"": ""New York""
+      },
+      {
+        ""frp"": ""New York""
+      },
+      {
+        ""ga"": ""Nua-Eabhrac""
+      },
+      {
+        ""gd"": ""Eabhraig Nuadh""
+      },
+      {
+        ""gl"": ""Nova York""
+      },
+      {
+        ""he"": ""ניו יורק""
+      },
+      {
+        ""hi"": ""नया यॉर्क""
+      },
+      {
+        ""hr"": ""New York""
+      },
+      {
+        ""hu"": ""New York""
+      },
+      {
+        ""id"": ""New York""
+      },
+      {
+        ""io"": ""Nova-York""
+      },
+      {
+        ""it"": ""New York""
+      },
+      {
+        ""ja"": ""ニューヨーク州""
+      },
+      {
+        ""jbo"": ""niuiork""
+      },
+      {
+        ""ko"": ""뉴욕 주""
+      },
+      {
+        ""ku"": ""New York""
+      },
+      {
+        ""kw"": ""Stat Evrek Nowydh""
+      },
+      {
+        ""la"": ""Novum Eboracum""
+      },
+      {
+        ""link"": ""http://en.wikipedia.org/wiki/New_York""
+      },
+      {
+        ""lt"": ""Niujorkas""
+      },
+      {
+        ""lv"": ""Ņujorka""
+      },
+      {
+        ""mk"": ""Њујорк""
+      },
+      {
+        ""ms"": ""New York""
+      },
+      {
+        ""nl"": ""New York""
+      },
+      {
+        ""nn"": ""Delstaten New York""
+      },
+      {
+        ""no"": ""New York State""
+      },
+      {
+        ""oc"": ""Nòva York""
+      },
+      {
+        ""os"": ""Нью-Йорк""
+      },
+      {
+        ""pt"": ""Nova Iorque""
+      },
+      {
+        ""ro"": ""New York""
+      },
+      {
+        ""ru"": ""Нью-Йорк""
+      },
+      {
+        ""sk"": ""New York""
+      },
+      {
+        ""sl"": ""New York""
+      },
+      {
+        ""sq"": ""New York""
+      },
+      {
+        ""sr"": ""Њујорк""
+      },
+      {
+        ""sv"": ""New York""
+      },
+      {
+        ""ta"": ""நியூ யோர்க் மாநிலம்""
+      },
+      {
+        ""th"": ""มลรัฐนิวยอร์ก""
+      },
+      {
+        ""tl"": ""New York""
+      },
+      {
+        ""tr"": ""New York""
+      },
+      {
+        ""ug"": ""نيۇيورك شىتاتى""
+      },
+      {
+        ""uk"": ""Нью-Йорк""
+      },
+      {
+        ""vi"": ""Tiểu bang New York""
+      },
+      {
+        ""zh"": ""纽约州""
+      }
+    ],
+    ""name"": ""New York"",
+    ""zoom"": 1
+  },
+  ""clouds"": {
+    ""all"": 1
+  },
+  ""main"": {
+    ""humidity"": 61,
+    ""pressure"": 1014,
+    ""temp"": 300.36,
+    ""temp_max"": 300.93,
+    ""temp_min"": 300.15
+  },
+  ""time"": 1473445559,
+  ""weather"": [
+    {
+      ""description"": ""sky is clear"",
+      ""icon"": ""01d"",
+      ""id"": 800,
+      ""main"": ""Clear""
+    }
+  ],
+  ""wind"": {
+    ""deg"": 300,
+    ""speed"": 3.6
+  }
+}"
+"{
+  ""city"": {
+    ""coord"": {
+      ""lat"": 40.714272,
+      ""lon"": -74.005966
+    },
+    ""country"": ""US"",
+    ""findname"": ""NEW YORK"",
+    ""id"": 5128581,
+    ""langs"": [
+      {
+        ""af"": ""New York Stad""
+      },
+      {
+        ""an"": ""Nueba York""
+      },
+      {
+        ""ar"": ""نيويورك""
+      },
+      {
+        ""be"": ""Нью-Ёрк""
+      },
+      {
+        ""bg"": ""Ню Йорк""
+      },
+      {
+        ""bn"": ""নিউ ইয়র্ক""
+      },
+      {
+        ""br"": ""New York""
+      },
+      {
+        ""bs"": ""New York City""
+      },
+      {
+        ""ca"": ""Nova York""
+      },
+      {
+        ""cs"": ""New York""
+      },
+      {
+        ""cy"": ""Efrog Newydd""
+      },
+      {
+        ""da"": ""New York""
+      },
+      {
+        ""de"": ""New York City""
+      },
+      {
+        ""el"": ""Νέα Υόρκη""
+      },
+      {
+        ""en"": ""New York""
+      },
+      {
+        ""eo"": ""Nov-Jorko""
+      },
+      {
+        ""es"": ""Nueva York""
+      },
+      {
+        ""et"": ""New York""
+      },
+      {
+        ""eu"": ""New York""
+      },
+      {
+        ""fa"": ""نیویورک""
+      },
+      {
+        ""fi"": ""New York""
+      },
+      {
+        ""fr"": ""New York""
+      },
+      {
+        ""frp"": ""New York""
+      },
+      {
+        ""ga"": ""Cathair Nua Eabhraic""
+      },
+      {
+        ""gd"": ""Eabhraig Nuadh""
+      },
+      {
+        ""gl"": ""Nova York""
+      },
+      {
+        ""he"": ""ניו יורק""
+      },
+      {
+        ""hr"": ""New York""
+      },
+      {
+        ""hu"": ""New York""
+      },
+      {
+        ""ia"": ""New York""
+      },
+      {
+        ""iata"": ""NYC""
+      },
+      {
+        ""id"": ""New York City""
+      },
+      {
+        ""io"": ""Nova-York""
+      },
+      {
+        ""is"": ""Nýja Jórvík""
+      },
+      {
+        ""it"": ""New York""
+      },
+      {
+        ""ja"": ""ニューヨーク""
+      },
+      {
+        ""ka"": ""ნიუ-იორკი""
+      },
+      {
+        ""ko"": ""뉴욕 시""
+      },
+      {
+        ""ku"": ""New York City""
+      },
+      {
+        ""kw"": ""Evrek Nowydh""
+      },
+      {
+        ""la"": ""Urbs Novum Eboracum""
+      },
+      {
+        ""lb"": ""New York City""
+      },
+      {
+        ""li"": ""New York""
+      },
+      {
+        ""link"": ""http://en.wikipedia.org/wiki/New_York_City""
+      },
+      {
+        ""lt"": ""Niujorkas""
+      },
+      {
+        ""lv"": ""Ņujorka""
+      },
+      {
+        ""mk"": ""Њу Јорк""
+      },
+      {
+        ""ms"": ""Bandaraya New York""
+      },
+      {
+        ""nb"": ""New York""
+      },
+      {
+        ""nds"": ""New York""
+      },
+      {
+        ""nl"": ""New York City""
+      },
+      {
+        ""nn"": ""New York""
+      },
+      {
+        ""no"": ""New York""
+      },
+      {
+        ""nrm"": ""Nouvieau York""
+      },
+      {
+        ""oc"": ""Nòva York""
+      },
+      {
+        ""os"": ""Нью-Йорк""
+      },
+      {
+        ""pdc"": ""Nei Yarrick Schtadt""
+      },
+      {
+        ""pl"": ""Nowy Jork""
+      },
+      {
+        ""pms"": ""New York""
+      },
+      {
+        ""post"": ""10017""
+      },
+      {
+        ""pt"": ""Nova Iorque""
+      },
+      {
+        ""qu"": ""New York""
+      },
+      {
+        ""ro"": ""New York""
+      },
+      {
+        ""ru"": ""Нью-Йорк""
+      },
+      {
+        ""scn"": ""Nova York""
+      },
+      {
+        ""sh"": ""New York""
+      },
+      {
+        ""sk"": ""New York""
+      },
+      {
+        ""sl"": ""New York""
+      },
+      {
+        ""sq"": ""New York City""
+      },
+      {
+        ""sr"": ""Њујорк""
+      },
+      {
+        ""sv"": ""New York""
+      },
+      {
+        ""ta"": ""நியூயார்க்""
+      },
+      {
+        ""th"": ""นครนิวยอร์ก""
+      },
+      {
+        ""tl"": ""Lungsod ng New York""
+      },
+      {
+        ""tr"": ""New York kenti""
+      },
+      {
+        ""ug"": ""نيۇيورك شەھەر""
+      },
+      {
+        ""uk"": ""Нью-Йорк""
+      },
+      {
+        ""ur"": ""نیویارک شہر""
+      },
+      {
+        ""vi"": ""Thành phố New York""
+      },
+      {
+        ""yi"": ""ניו־יאָרק""
+      },
+      {
+        ""zh"": ""紐約市""
+      }
+    ],
+    ""name"": ""New York"",
+    ""zoom"": 1
+  },
+  ""clouds"": {
+    ""all"": 90
+  },
+  ""main"": {
+    ""humidity"": 52,
+    ""pressure"": 1013,
+    ""temp"": 304.81,
+    ""temp_max"": 307.04,
+    ""temp_min"": 301.15
+  },
+  ""time"": 1473445599,
+  ""weather"": [
+    {
+      ""description"": ""overcast clouds"",
+      ""icon"": ""04d"",
+      ""id"": 804,
+      ""main"": ""Clouds""
+    }
+  ],
+  ""wind"": {
+    ""deg"": 320,
+    ""speed"": 4.1
+  }
+}"
+"{
+  ""city"": {
+    ""coord"": {
+      ""lat"": 43.000351,
+      ""lon"": -75.499901
+    },
+    ""country"": ""US"",
+    ""findname"": ""NEW YORK"",
+    ""id"": 5128638,
+    ""langs"": [
+      {
+        ""abbr"": ""NY""
+      },
+      {
+        ""am"": ""ኒው ዮርክ""
+      },
+      {
+        ""ang"": ""Nīwe Eoforwic""
+      },
+      {
+        ""ar"": ""نيويورك""
+      },
+      {
+        ""be"": ""Нью-Ёрк""
+      },
+      {
+        ""bg"": ""Ню Йорк""
+      },
+      {
+        ""br"": ""New York""
+      },
+      {
+        ""bs"": ""New York""
+      },
+      {
+        ""ca"": ""Nova York""
+      },
+      {
+        ""cs"": ""New York""
+      },
+      {
+        ""cy"": ""Efrog Newydd""
+      },
+      {
+        ""da"": ""New York""
+      },
+      {
+        ""de"": ""New York""
+      },
+      {
+        ""en"": ""New York""
+      },
+      {
+        ""eo"": ""Nov-Jorkio""
+      },
+      {
+        ""es"": ""Nueva York""
+      },
+      {
+        ""et"": ""New Yorgi osariik""
+      },
+      {
+        ""fi"": ""New York""
+      },
+      {
+        ""fr"": ""New York""
+      },
+      {
+        ""frp"": ""New York""
+      },
+      {
+        ""ga"": ""Nua-Eabhrac""
+      },
+      {
+        ""gd"": ""Eabhraig Nuadh""
+      },
+      {
+        ""gl"": ""Nova York""
+      },
+      {
+        ""he"": ""ניו יורק""
+      },
+      {
+        ""hi"": ""नया यॉर्क""
+      },
+      {
+        ""hr"": ""New York""
+      },
+      {
+        ""hu"": ""New York""
+      },
+      {
+        ""id"": ""New York""
+      },
+      {
+        ""io"": ""Nova-York""
+      },
+      {
+        ""it"": ""New York""
+      },
+      {
+        ""ja"": ""ニューヨーク州""
+      },
+      {
+        ""jbo"": ""niuiork""
+      },
+      {
+        ""ko"": ""뉴욕 주""
+      },
+      {
+        ""ku"": ""New York""
+      },
+      {
+        ""kw"": ""Stat Evrek Nowydh""
+      },
+      {
+        ""la"": ""Novum Eboracum""
+      },
+      {
+        ""link"": ""http://en.wikipedia.org/wiki/New_York""
+      },
+      {
+        ""lt"": ""Niujorkas""
+      },
+      {
+        ""lv"": ""Ņujorka""
+      },
+      {
+        ""mk"": ""Њујорк""
+      },
+      {
+        ""ms"": ""New York""
+      },
+      {
+        ""nl"": ""New York""
+      },
+      {
+        ""nn"": ""Delstaten New York""
+      },
+      {
+        ""no"": ""New York State""
+      },
+      {
+        ""oc"": ""Nòva York""
+      },
+      {
+        ""os"": ""Нью-Йорк""
+      },
+      {
+        ""pt"": ""Nova Iorque""
+      },
+      {
+        ""ro"": ""New York""
+      },
+      {
+        ""ru"": ""Нью-Йорк""
+      },
+      {
+        ""sk"": ""New York""
+      },
+      {
+        ""sl"": ""New York""
+      },
+      {
+        ""sq"": ""New York""
+      },
+      {
+        ""sr"": ""Њујорк""
+      },
+      {
+        ""sv"": ""New York""
+      },
+      {
+        ""ta"": ""நியூ யோர்க் மாநிலம்""
+      },
+      {
+        ""th"": ""มลรัฐนิวยอร์ก""
+      },
+      {
+        ""tl"": ""New York""
+      },
+      {
+        ""tr"": ""New York""
+      },
+      {
+        ""ug"": ""نيۇيورك شىتاتى""
+      },
+      {
+        ""uk"": ""Нью-Йорк""
+      },
+      {
+        ""vi"": ""Tiểu bang New York""
+      },
+      {
+        ""zh"": ""纽约州""
+      }
+    ],
+    ""name"": ""New York"",
+    ""zoom"": 1
+  },
+  ""clouds"": {
+    ""all"": 1
+  },
+  ""main"": {
+    ""humidity"": 69,
+    ""pressure"": 1015,
+    ""temp"": 296.96,
+    ""temp_max"": 300.37,
+    ""temp_min"": 292.59
+  },
+  ""time"": 1469150905,
+  ""weather"": [
+    {
+      ""description"": ""sky is clear"",
+      ""icon"": ""01n"",
+      ""id"": 800,
+      ""main"": ""Clear""
+    }
+  ],
+  ""wind"": {
+    ""deg"": 80,
+    ""speed"": 1.5
+  }
+}"
+"{
+  ""city"": {
+    ""coord"": {
+      ""lat"": 40.714272,
+      ""lon"": -74.005966
+    },
+    ""country"": ""US"",
+    ""findname"": ""NEW YORK"",
+    ""id"": 5128581,
+    ""langs"": [
+      {
+        ""af"": ""New York Stad""
+      },
+      {
+        ""an"": ""Nueba York""
+      },
+      {
+        ""ar"": ""نيويورك""
+      },
+      {
+        ""be"": ""Нью-Ёрк""
+      },
+      {
+        ""bg"": ""Ню Йорк""
+      },
+      {
+        ""bn"": ""নিউ ইয়র্ক""
+      },
+      {
+        ""br"": ""New York""
+      },
+      {
+        ""bs"": ""New York City""
+      },
+      {
+        ""ca"": ""Nova York""
+      },
+      {
+        ""cs"": ""New York""
+      },
+      {
+        ""cy"": ""Efrog Newydd""
+      },
+      {
+        ""da"": ""New York""
+      },
+      {
+        ""de"": ""New York City""
+      },
+      {
+        ""el"": ""Νέα Υόρκη""
+      },
+      {
+        ""en"": ""New York""
+      },
+      {
+        ""eo"": ""Nov-Jorko""
+      },
+      {
+        ""es"": ""Nueva York""
+      },
+      {
+        ""et"": ""New York""
+      },
+      {
+        ""eu"": ""New York""
+      },
+      {
+        ""fa"": ""نیویورک""
+      },
+      {
+        ""fi"": ""New York""
+      },
+      {
+        ""fr"": ""New York""
+      },
+      {
+        ""frp"": ""New York""
+      },
+      {
+        ""ga"": ""Cathair Nua Eabhraic""
+      },
+      {
+        ""gd"": ""Eabhraig Nuadh""
+      },
+      {
+        ""gl"": ""Nova York""
+      },
+      {
+        ""he"": ""ניו יורק""
+      },
+      {
+        ""hr"": ""New York""
+      },
+      {
+        ""hu"": ""New York""
+      },
+      {
+        ""ia"": ""New York""
+      },
+      {
+        ""iata"": ""NYC""
+      },
+      {
+        ""id"": ""New York City""
+      },
+      {
+        ""io"": ""Nova-York""
+      },
+      {
+        ""is"": ""Nýja Jórvík""
+      },
+      {
+        ""it"": ""New York""
+      },
+      {
+        ""ja"": ""ニューヨーク""
+      },
+      {
+        ""ka"": ""ნიუ-იორკი""
+      },
+      {
+        ""ko"": ""뉴욕 시""
+      },
+      {
+        ""ku"": ""New York City""
+      },
+      {
+        ""kw"": ""Evrek Nowydh""
+      },
+      {
+        ""la"": ""Urbs Novum Eboracum""
+      },
+      {
+        ""lb"": ""New York City""
+      },
+      {
+        ""li"": ""New York""
+      },
+      {
+        ""link"": ""http://en.wikipedia.org/wiki/New_York_City""
+      },
+      {
+        ""lt"": ""Niujorkas""
+      },
+      {
+        ""lv"": ""Ņujorka""
+      },
+      {
+        ""mk"": ""Њу Јорк""
+      },
+      {
+        ""ms"": ""Bandaraya New York""
+      },
+      {
+        ""nb"": ""New York""
+      },
+      {
+        ""nds"": ""New York""
+      },
+      {
+        ""nl"": ""New York City""
+      },
+      {
+        ""nn"": ""New York""
+      },
+      {
+        ""no"": ""New York""
+      },
+      {
+        ""nrm"": ""Nouvieau York""
+      },
+      {
+        ""oc"": ""Nòva York""
+      },
+      {
+        ""os"": ""Нью-Йорк""
+      },
+      {
+        ""pdc"": ""Nei Yarrick Schtadt""
+      },
+      {
+        ""pl"": ""Nowy Jork""
+      },
+      {
+        ""pms"": ""New York""
+      },
+      {
+        ""post"": ""10017""
+      },
+      {
+        ""pt"": ""Nova Iorque""
+      },
+      {
+        ""qu"": ""New York""
+      },
+      {
+        ""ro"": ""New York""
+      },
+      {
+        ""ru"": ""Нью-Йорк""
+      },
+      {
+        ""scn"": ""Nova York""
+      },
+      {
+        ""sh"": ""New York""
+      },
+      {
+        ""sk"": ""New York""
+      },
+      {
+        ""sl"": ""New York""
+      },
+      {
+        ""sq"": ""New York City""
+      },
+      {
+        ""sr"": ""Њујорк""
+      },
+      {
+        ""sv"": ""New York""
+      },
+      {
+        ""ta"": ""நியூயார்க்""
+      },
+      {
+        ""th"": ""นครนิวยอร์ก""
+      },
+      {
+        ""tl"": ""Lungsod ng New York""
+      },
+      {
+        ""tr"": ""New York kenti""
+      },
+      {
+        ""ug"": ""نيۇيورك شەھەر""
+      },
+      {
+        ""uk"": ""Нью-Йорк""
+      },
+      {
+        ""ur"": ""نیویارک شہر""
+      },
+      {
+        ""vi"": ""Thành phố New York""
+      },
+      {
+        ""yi"": ""ניו־יאָרק""
+      },
+      {
+        ""zh"": ""紐約市""
+      }
+    ],
+    ""name"": ""New York"",
+    ""zoom"": 1
+  },
+  ""clouds"": {
+    ""all"": 75
+  },
+  ""main"": {
+    ""humidity"": 42,
+    ""pressure"": 1017,
+    ""temp"": 299.1,
+    ""temp_max"": 302.15,
+    ""temp_min"": 295.15
+  },
+  ""time"": 1469150937,
+  ""weather"": [
+    {
+      ""description"": ""broken clouds"",
+      ""icon"": ""04n"",
+      ""id"": 803,
+      ""main"": ""Clouds""
+    }
+  ],
+  ""wind"": {
+    ""deg"": 210,
+    ""gust"": 10.3,
+    ""speed"": 6.7
+  }
+}"
+"{
+  ""city"": {
+    ""coord"": {
+      ""lat"": 43.000351,
+      ""lon"": -75.499901
+    },
+    ""country"": ""US"",
+    ""findname"": ""NEW YORK"",
+    ""id"": 5128638,
+    ""langs"": [
+      {
+        ""abbr"": ""NY""
+      },
+      {
+        ""am"": ""ኒው ዮርክ""
+      },
+      {
+        ""ang"": ""Nīwe Eoforwic""
+      },
+      {
+        ""ar"": ""نيويورك""
+      },
+      {
+        ""be"": ""Нью-Ёрк""
+      },
+      {
+        ""bg"": ""Ню Йорк""
+      },
+      {
+        ""br"": ""New York""
+      },
+      {
+        ""bs"": ""New York""
+      },
+      {
+        ""ca"": ""Nova York""
+      },
+      {
+        ""cs"": ""New York""
+      },
+      {
+        ""cy"": ""Efrog Newydd""
+      },
+      {
+        ""da"": ""New York""
+      },
+      {
+        ""de"": ""New York""
+      },
+      {
+        ""en"": ""New York""
+      },
+      {
+        ""eo"": ""Nov-Jorkio""
+      },
+      {
+        ""es"": ""Nueva York""
+      },
+      {
+        ""et"": ""New Yorgi osariik""
+      },
+      {
+        ""fi"": ""New York""
+      },
+      {
+        ""fr"": ""New York""
+      },
+      {
+        ""frp"": ""New York""
+      },
+      {
+        ""ga"": ""Nua-Eabhrac""
+      },
+      {
+        ""gd"": ""Eabhraig Nuadh""
+      },
+      {
+        ""gl"": ""Nova York""
+      },
+      {
+        ""he"": ""ניו יורק""
+      },
+      {
+        ""hi"": ""नया यॉर्क""
+      },
+      {
+        ""hr"": ""New York""
+      },
+      {
+        ""hu"": ""New York""
+      },
+      {
+        ""id"": ""New York""
+      },
+      {
+        ""io"": ""Nova-York""
+      },
+      {
+        ""it"": ""New York""
+      },
+      {
+        ""ja"": ""ニューヨーク州""
+      },
+      {
+        ""jbo"": ""niuiork""
+      },
+      {
+        ""ko"": ""뉴욕 주""
+      },
+      {
+        ""ku"": ""New York""
+      },
+      {
+        ""kw"": ""Stat Evrek Nowydh""
+      },
+      {
+        ""la"": ""Novum Eboracum""
+      },
+      {
+        ""link"": ""http://en.wikipedia.org/wiki/New_York""
+      },
+      {
+        ""lt"": ""Niujorkas""
+      },
+      {
+        ""lv"": ""Ņujorka""
+      },
+      {
+        ""mk"": ""Њујорк""
+      },
+      {
+        ""ms"": ""New York""
+      },
+      {
+        ""nl"": ""New York""
+      },
+      {
+        ""nn"": ""Delstaten New York""
+      },
+      {
+        ""no"": ""New York State""
+      },
+      {
+        ""oc"": ""Nòva York""
+      },
+      {
+        ""os"": ""Нью-Йорк""
+      },
+      {
+        ""pt"": ""Nova Iorque""
+      },
+      {
+        ""ro"": ""New York""
+      },
+      {
+        ""ru"": ""Нью-Йорк""
+      },
+      {
+        ""sk"": ""New York""
+      },
+      {
+        ""sl"": ""New York""
+      },
+      {
+        ""sq"": ""New York""
+      },
+      {
+        ""sr"": ""Њујорк""
+      },
+      {
+        ""sv"": ""New York""
+      },
+      {
+        ""ta"": ""நியூ யோர்க் மாநிலம்""
+      },
+      {
+        ""th"": ""มลรัฐนิวยอร์ก""
+      },
+      {
+        ""tl"": ""New York""
+      },
+      {
+        ""tr"": ""New York""
+      },
+      {
+        ""ug"": ""نيۇيورك شىتاتى""
+      },
+      {
+        ""uk"": ""Нью-Йорк""
+      },
+      {
+        ""vi"": ""Tiểu bang New York""
+      },
+      {
+        ""zh"": ""纽约州""
+      }
+    ],
+    ""name"": ""New York"",
+    ""zoom"": 1
+  },
+  ""clouds"": {
+    ""all"": 1
+  },
+  ""main"": {
+    ""humidity"": 61,
+    ""pressure"": 1009,
+    ""temp"": 299.48,
+    ""temp_max"": 302.04,
+    ""temp_min"": 296.48
+  },
+  ""time"": 1469237340,
+  ""weather"": [
+    {
+      ""description"": ""sky is clear"",
+      ""icon"": ""01n"",
+      ""id"": 800,
+      ""main"": ""Clear""
+    }
+  ],
+  ""wind"": {
+    ""deg"": 320,
+    ""speed"": 2.1
+  }
+}"
+"{
+  ""city"": {
+    ""coord"": {
+      ""lat"": 40.714272,
+      ""lon"": -74.005966
+    },
+    ""country"": ""US"",
+    ""findname"": ""NEW YORK"",
+    ""id"": 5128581,
+    ""langs"": [
+      {
+        ""af"": ""New York Stad""
+      },
+      {
+        ""an"": ""Nueba York""
+      },
+      {
+        ""ar"": ""نيويورك""
+      },
+      {
+        ""be"": ""Нью-Ёрк""
+      },
+      {
+        ""bg"": ""Ню Йорк""
+      },
+      {
+        ""bn"": ""নিউ ইয়র্ক""
+      },
+      {
+        ""br"": ""New York""
+      },
+      {
+        ""bs"": ""New York City""
+      },
+      {
+        ""ca"": ""Nova York""
+      },
+      {
+        ""cs"": ""New York""
+      },
+      {
+        ""cy"": ""Efrog Newydd""
+      },
+      {
+        ""da"": ""New York""
+      },
+      {
+        ""de"": ""New York City""
+      },
+      {
+        ""el"": ""Νέα Υόρκη""
+      },
+      {
+        ""en"": ""New York""
+      },
+      {
+        ""eo"": ""Nov-Jorko""
+      },
+      {
+        ""es"": ""Nueva York""
+      },
+      {
+        ""et"": ""New York""
+      },
+      {
+        ""eu"": ""New York""
+      },
+      {
+        ""fa"": ""نیویورک""
+      },
+      {
+        ""fi"": ""New York""
+      },
+      {
+        ""fr"": ""New York""
+      },
+      {
+        ""frp"": ""New York""
+      },
+      {
+        ""ga"": ""Cathair Nua Eabhraic""
+      },
+      {
+        ""gd"": ""Eabhraig Nuadh""
+      },
+      {
+        ""gl"": ""Nova York""
+      },
+      {
+        ""he"": ""ניו יורק""
+      },
+      {
+        ""hr"": ""New York""
+      },
+      {
+        ""hu"": ""New York""
+      },
+      {
+        ""ia"": ""New York""
+      },
+      {
+        ""iata"": ""NYC""
+      },
+      {
+        ""id"": ""New York City""
+      },
+      {
+        ""io"": ""Nova-York""
+      },
+      {
+        ""is"": ""Nýja Jórvík""
+      },
+      {
+        ""it"": ""New York""
+      },
+      {
+        ""ja"": ""ニューヨーク""
+      },
+      {
+        ""ka"": ""ნიუ-იორკი""
+      },
+      {
+        ""ko"": ""뉴욕 시""
+      },
+      {
+        ""ku"": ""New York City""
+      },
+      {
+        ""kw"": ""Evrek Nowydh""
+      },
+      {
+        ""la"": ""Urbs Novum Eboracum""
+      },
+      {
+        ""lb"": ""New York City""
+      },
+      {
+        ""li"": ""New York""
+      },
+      {
+        ""link"": ""http://en.wikipedia.org/wiki/New_York_City""
+      },
+      {
+        ""lt"": ""Niujorkas""
+      },
+      {
+        ""lv"": ""Ņujorka""
+      },
+      {
+        ""mk"": ""Њу Јорк""
+      },
+      {
+        ""ms"": ""Bandaraya New York""
+      },
+      {
+        ""nb"": ""New York""
+      },
+      {
+        ""nds"": ""New York""
+      },
+      {
+        ""nl"": ""New York City""
+      },
+      {
+        ""nn"": ""New York""
+      },
+      {
+        ""no"": ""New York""
+      },
+      {
+        ""nrm"": ""Nouvieau York""
+      },
+      {
+        ""oc"": ""Nòva York""
+      },
+      {
+        ""os"": ""Нью-Йорк""
+      },
+      {
+        ""pdc"": ""Nei Yarrick Schtadt""
+      },
+      {
+        ""pl"": ""Nowy Jork""
+      },
+      {
+        ""pms"": ""New York""
+      },
+      {
+        ""post"": ""10017""
+      },
+      {
+        ""pt"": ""Nova Iorque""
+      },
+      {
+        ""qu"": ""New York""
+      },
+      {
+        ""ro"": ""New York""
+      },
+      {
+        ""ru"": ""Нью-Йорк""
+      },
+      {
+        ""scn"": ""Nova York""
+      },
+      {
+        ""sh"": ""New York""
+      },
+      {
+        ""sk"": ""New York""
+      },
+      {
+        ""sl"": ""New York""
+      },
+      {
+        ""sq"": ""New York City""
+      },
+      {
+        ""sr"": ""Њујорк""
+      },
+      {
+        ""sv"": ""New York""
+      },
+      {
+        ""ta"": ""நியூயார்க்""
+      },
+      {
+        ""th"": ""นครนิวยอร์ก""
+      },
+      {
+        ""tl"": ""Lungsod ng New York""
+      },
+      {
+        ""tr"": ""New York kenti""
+      },
+      {
+        ""ug"": ""نيۇيورك شەھەر""
+      },
+      {
+        ""uk"": ""Нью-Йорк""
+      },
+      {
+        ""ur"": ""نیویارک شہر""
+      },
+      {
+        ""vi"": ""Thành phố New York""
+      },
+      {
+        ""yi"": ""ניו־יאָרק""
+      },
+      {
+        ""zh"": ""紐約市""
+      }
+    ],
+    ""name"": ""New York"",
+    ""zoom"": 1
+  },
+  ""clouds"": {
+    ""all"": 20
+  },
+  ""main"": {
+    ""humidity"": 55,
+    ""pressure"": 1009,
+    ""temp"": 303.47,
+    ""temp_max"": 306.15,
+    ""temp_min"": 300.15
+  },
+  ""time"": 1469237375,
+  ""weather"": [
+    {
+      ""description"": ""few clouds"",
+      ""icon"": ""02n"",
+      ""id"": 801,
+      ""main"": ""Clouds""
+    }
+  ],
+  ""wind"": {
+    ""deg"": 230,
+    ""speed"": 8.2
+  }
+}"
