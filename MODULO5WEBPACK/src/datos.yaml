@@ -1,0 +1,6 @@
+title:'JSON5 Example'
+Owner
+ name:'TOM'
+ organization:'github'
+ bio:'github'
+ dob:'1979"

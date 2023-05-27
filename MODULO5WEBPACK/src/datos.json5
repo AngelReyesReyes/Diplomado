@@ -1,0 +1,10 @@
+{
+  // comments
+  title:'JSON5 Example',
+  owner{
+    name:'Tom',
+    organization:'github',
+    bio:'github',
+    dob:'1979',
+  },
+}
